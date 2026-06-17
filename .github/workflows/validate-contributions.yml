@@ -1,0 +1,32 @@
+name: Validate Contributions
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'data/contributions/pending/**.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Get changed JSON files
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: data/contributions/pending/*.json
+
+      - name: Validate all changed contributions
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            node scripts/validate-contribution.js "$file"
+          done
