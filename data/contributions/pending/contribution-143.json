@@ -1,0 +1,16 @@
+{
+  "id": 143,
+  "target_file": "arabic.json",
+  "changes": {
+    "meaning": "Lion, strong, steadfast. Associated with courage, bravery, and firmness.",
+    "description": "Hamza is a traditional Arabic name widely used across the Muslim world. It is historically linked to Hamza ibn Abdul-Muttalib, the uncle of the Prophet Muhammad ﷺ, known as a fearless warrior and a symbol of courage (“Lion of God”). The name is common in North Africa and the Middle East, and rarer in Western countries."
+  },
+  "translations": {
+    "ar": {
+      "meaning": "حمزة اسم عربي مذكر يعني “الأسد” و“القوي” و“الثابت”. ويرتبط بالشجاعة والقوة والصلابة في المواقف.",
+      "description": "اسم حمزة اسم عربي تقليدي منتشر في العالم الإسلامي، واشتهر تاريخيًا بسبب حمزة بن عبد المطلب رضي الله عنه عمّ النبي محمد ﷺ، الذي كان معروفًا بشجاعته ولقب بـ“أسد الله”. الاسم شائع في الدول العربية ويُستخدم بشكل أقل في الغرب."
+    }
+  },
+  "proposed_by": "EKITEAM",
+  "created_at": "2026-06-17T15:17:31Z"
+}
