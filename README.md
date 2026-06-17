@@ -40,6 +40,6 @@ Please keep the same fields and ensure id is unique.
 
 License
 
-CC0 1.0 Universal
+Apache 2.0
 
 Maintained by @EKITEAM
