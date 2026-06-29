@@ -1,12 +1,12 @@
 [
   {
-    "id": 139,
+    "id": 10139,
     "name": "Abdullah",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Servant of God - Servant of Allah - Slave of the Almighty"
+    "meaning": "Humble servant of God devoted fully"
   },
   {
     "id": 872,
@@ -54,13 +54,13 @@
     "meaning": "Princess, daughter of a king"
   },
   {
-    "id": 132,
+    "id": 10132,
     "name": "Adam",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Man - Earth - Soil - Made from earth's mud - Red clay"
+    "meaning": "Man created from earths red clay"
   },
   {
     "id": 606,
@@ -162,13 +162,13 @@
     "meaning": "Love"
   },
   {
-    "id": 140,
+    "id": 10140,
     "name": "Ahmed",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Most praised - Highly praised - Commendable - One who constantly thanks God"
+    "meaning": "Most praised of commendable high virtue"
   },
   {
     "id": 415,
@@ -207,13 +207,13 @@
     "meaning": "Alive, prosperous"
   },
   {
-    "id": 136,
+    "id": 10136,
     "name": "Aisha",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Alive - Living - She who lives - Prosperous - Womanly - Lively"
+    "meaning": "Alive living and prosperously vibrant"
   },
   {
     "id": 847,
@@ -288,13 +288,13 @@
     "meaning": "Raid - Rush - Flood - Stream"
   },
   {
-    "id": 182,
+    "id": 10182,
     "name": "Alaa",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Sublimity - Highness - Elevation - Loftiness - Exaltedness - Glory"
+    "meaning": "Sublime elevation of exalted glory"
   },
   {
     "id": 395,
@@ -396,13 +396,13 @@
     "meaning": "Defender, helper"
   },
   {
-    "id": 102,
+    "id": 10102,
     "name": "Ali",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Elevated - Sublime - High - Exalted - Champion"
+    "meaning": "Exalted and elevated in divine rank"
   },
   {
     "id": 417,
@@ -504,13 +504,13 @@
     "meaning": "Seemed destined to die at birth but lived"
   },
   {
-    "id": 191,
+    "id": 10191,
     "name": "Amal",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Hope - Aspiration - Expectation - Wish - Optimism"
+    "meaning": "Radiant hope and bright aspiration"
   },
   {
     "id": 324,
@@ -567,22 +567,22 @@
     "meaning": "Trustworthy, faithful"
   },
   {
-    "id": 142,
+    "id": 10142,
     "name": "Amina",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Trustworthy - Faithful - Honest - Safe one - Protected - Devoted"
+    "meaning": "Trustworthy faithful and safe protector"
   },
   {
-    "id": 111,
+    "id": 10111,
     "name": "Amira",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Princess - Leader - Commander - Ruler - Noble lady"
+    "meaning": "Princess of noble birth and command"
   },
   {
     "id": 738,
@@ -657,13 +657,13 @@
     "meaning": "Unique, matchless"
   },
   {
-    "id": 124,
+    "id": 10124,
     "name": "Anas",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Friendliness - Companion - Close friend - One who brings joy and peace"
+    "meaning": "Friendly companion who brings peaceful joy"
   },
   {
     "id": 1102,
@@ -1134,13 +1134,13 @@
     "meaning": "Spring"
   },
   {
-    "id": 103,
+    "id": 10103,
     "name": "Aya",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Sign - Miracle - Verse - Proof - Wonder"
+    "meaning": "A divine sign or miraculous verse"
   },
   {
     "id": 803,
@@ -1197,13 +1197,13 @@
     "meaning": "My joy has come"
   },
   {
-    "id": 180,
+    "id": 10180,
     "name": "Ayoub",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Patient - Enduring - Job - Returning to God - Penitent"
+    "meaning": "Patient enduring soul of repentance"
   },
   {
     "id": 414,
@@ -1539,13 +1539,13 @@
     "meaning": "Ask, the one who asks"
   },
   {
-    "id": 121,
+    "id": 10121,
     "name": "Bilal",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Wetting - Moistening - Water - Refreshing - First muezzin"
+    "meaning": "Fresh water that moistens and revives"
   },
   {
     "id": 625,
@@ -1647,13 +1647,13 @@
     "meaning": "Scent - Fragrance - Sweet smell"
   },
   {
-    "id": 187,
+    "id": 10187,
     "name": "Bushra",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Good news - Good tidings - Glad news - Good omen - Happy news"
+    "meaning": "Glad tidings of good joyful news"
   },
   {
     "id": 438,
@@ -2196,13 +2196,13 @@
     "meaning": "Water drop - Rain drop"
   },
   {
-    "id": 177,
+    "id": 10177,
     "name": "Dania",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Close - Near - Close at hand - Within reach - Intimate"
+    "meaning": "Close near and intimately connected"
   },
   {
     "id": 226,
@@ -2322,13 +2322,13 @@
     "meaning": "Beloved"
   },
   {
-    "id": 156,
+    "id": 10156,
     "name": "Dawud",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Beloved - Dear - Cherished - Friend - Beloved of God"
+    "meaning": "Beloved friend of God and justice"
   },
   {
     "id": 812,
@@ -2475,13 +2475,13 @@
     "meaning": "Palm tree, date palm"
   },
   {
-    "id": 129,
+    "id": 10129,
     "name": "Dina",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Love - Affection - Religion - Faith - Judgment"
+    "meaning": "Love and tenderness of gentle affection"
   },
   {
     "id": 848,
@@ -3159,22 +3159,22 @@
     "meaning": "Bean grower"
   },
   {
-    "id": 184,
+    "id": 10184,
     "name": "Fahd",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Panther - Leopard - Cheetah - Fierce - Brave - Swift"
+    "meaning": "Panther leopard of fierce swift strength"
   },
   {
-    "id": 169,
+    "id": 10169,
     "name": "Farah",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Joy - Happiness - Gladness - Delight - Cheerfulness - Merriment"
+    "meaning": "Pure joy and radiant happiness"
   },
   {
     "id": 1321,
@@ -3195,13 +3195,13 @@
     "meaning": "Unique, precious"
   },
   {
-    "id": 130,
+    "id": 10130,
     "name": "Faris",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Knight - Horseman - Cavalier - Champion"
+    "meaning": "Brave knight and skilled horseman"
   },
   {
     "id": 1392,
@@ -3222,13 +3222,13 @@
     "meaning": "Captivating"
   },
   {
-    "id": 114,
+    "id": 10114,
     "name": "Fatima",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "One who weans - One who abstains - Captivating - To cut or separate"
+    "meaning": "One who weans and abstains from"
   },
   {
     "id": 416,
@@ -3609,22 +3609,22 @@
     "meaning": "Farmer - Earthworker"
   },
   {
-    "id": 198,
+    "id": 10198,
     "name": "Ghaith",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Rain - Much rain - Abundant rain - Relief - Succor - Nourishment"
+    "meaning": "Abundant rain of life giving relief"
   },
   {
-    "id": 166,
+    "id": 10166,
     "name": "Ghassan",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Youth - Prime of life - Vigor - Handsome - Young and energetic"
+    "meaning": "Youthful vigor of handsome prime energy"
   },
   {
     "id": 1322,
@@ -3906,13 +3906,13 @@
     "meaning": "Hay meadow - Hay clearing"
   },
   {
-    "id": 146,
+    "id": 10146,
     "name": "Hajar",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Flight - To emigrate - Stone - Migrant - Mother of Ishmael"
+    "meaning": "Migrant of enduring faith and strength"
   },
   {
     "id": 461,
@@ -3924,13 +3924,13 @@
     "meaning": "Emperor - Ruler - Great king"
   },
   {
-    "id": 123,
+    "id": 10123,
     "name": "Hala",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Halo around the moon - Aura of light - Halo - Sweetness"
+    "meaning": "Gentle halo of light around the"
   },
   {
     "id": 1359,
@@ -3942,13 +3942,13 @@
     "meaning": "Praiseworthy, commendable"
   },
   {
-    "id": 143,
+    "id": 10143,
     "name": "Hamza",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Lion - Strong - Steadfast - Brave - Fierce"
+    "meaning": "Lion strong and steadfast in brave"
   },
   {
     "id": 505,
@@ -3960,13 +3960,13 @@
     "meaning": "Flower"
   },
   {
-    "id": 181,
+    "id": 10181,
     "name": "Hanan",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Compassion - Tenderness - Mercy - Affection - Sympathy - Kindness"
+    "meaning": "Deep compassion and tender heartfelt mercy"
   },
   {
     "id": 1004,
@@ -4023,13 +4023,13 @@
     "meaning": "Distant, spring flower"
   },
   {
-    "id": 154,
+    "id": 10154,
     "name": "Harun",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Mountain of strength - Exalted - Lofty - Warrior lion - Leader"
+    "meaning": "Exalted mountain of strength and eloquence"
   },
   {
     "id": 503,
@@ -4050,13 +4050,13 @@
     "meaning": "Handsome - Good - Benefactor"
   },
   {
-    "id": 112,
+    "id": 10112,
     "name": "Hassan",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Handsome - Good - Benefactor - Excellent - Beautiful"
+    "meaning": "Handsome in form and good character"
   },
   {
     "id": 420,
@@ -4104,13 +4104,13 @@
     "meaning": "Torch, bright light"
   },
   {
-    "id": 179,
+    "id": 10179,
     "name": "Hend",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Group of camels (100-200) - Abundance - Wealth - India (old Arabic)"
+    "meaning": "Abundant wealth of large camel herd"
   },
   {
     "id": 1394,
@@ -4185,13 +4185,13 @@
     "meaning": "Wide, spacious tree"
   },
   {
-    "id": 164,
+    "id": 10164,
     "name": "Hisham",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Generous - Noble - Benevolent - One who crushes bread to share"
+    "meaning": "Generous host of noble benevolence"
   },
   {
     "id": 1095,
@@ -4221,22 +4221,22 @@
     "meaning": "Mind, intellect"
   },
   {
-    "id": 186,
+    "id": 10186,
     "name": "Hussam",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Sharp sword - Scimitar - Cutting blade - Sword of justice - Severing"
+    "meaning": "Sharp sword of decisive justice"
   },
   {
-    "id": 113,
+    "id": 10113,
     "name": "Hussein",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Little handsome one - Little beautiful one - Diminutive of Hassan - Good"
+    "meaning": "Little beautiful one of noble birth"
   },
   {
     "id": 1265,
@@ -4284,13 +4284,13 @@
     "meaning": "Father of multitudes"
   },
   {
-    "id": 134,
+    "id": 10134,
     "name": "Ibrahim",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Father of multitudes - Father of many - Exalted father - Friend of God"
+    "meaning": "Exalted father of multitudes and faith"
   },
   {
     "id": 1034,
@@ -4320,13 +4320,13 @@
     "meaning": "To thank, praise"
   },
   {
-    "id": 162,
+    "id": 10162,
     "name": "Idris",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Interpreter - Studious - To learn - To study - Teacher - Scholar"
+    "meaning": "Studious interpreter of divine knowledge"
   },
   {
     "id": 609,
@@ -4392,13 +4392,13 @@
     "meaning": "Yahweh is my God"
   },
   {
-    "id": 149,
+    "id": 10149,
     "name": "Ilyas",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "The Lord is my God - My God is Yahweh - Elevated - High"
+    "meaning": "The Lord is my God elevated"
   },
   {
     "id": 613,
@@ -4410,13 +4410,13 @@
     "meaning": "Faith"
   },
   {
-    "id": 174,
+    "id": 10174,
     "name": "Imran",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Prosperity - Construction - Exalted nation - Thriving - Flourishing"
+    "meaning": "Prosperous nation of flourishing construction"
   },
   {
     "id": 753,
@@ -4545,13 +4545,13 @@
     "meaning": "God will hear"
   },
   {
-    "id": 145,
+    "id": 10145,
     "name": "Ismail",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "God will hear - Heard by God - God has heard - Gift from God"
+    "meaning": "God hears the prayer of faithful"
   },
   {
     "id": 675,
@@ -4599,13 +4599,13 @@
     "meaning": "God is gracious"
   },
   {
-    "id": 190,
+    "id": 10190,
     "name": "Iyad",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Support - Reinforcement - Might - Strength - Powerful person - Shield"
+    "meaning": "Mighty support and protective reinforcement"
   },
   {
     "id": 604,
@@ -4662,13 +4662,13 @@
     "meaning": "Supplanter - He who follows"
   },
   {
-    "id": 126,
+    "id": 10126,
     "name": "Jad",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Serious - Earnest - Studious - Reliable - Responsible - Generous"
+    "meaning": "Serious earnest and generous in nature"
   },
   {
     "id": 304,
@@ -4734,13 +4734,13 @@
     "meaning": "God is gracious"
   },
   {
-    "id": 150,
+    "id": 10150,
     "name": "Jannah",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Garden - Paradise - Heaven - Eden - The final abode of the righteous"
+    "meaning": "Garden of eternal paradise and bliss"
   },
   {
     "id": 1039,
@@ -4887,13 +4887,13 @@
     "meaning": "God will increase"
   },
   {
-    "id": 157,
+    "id": 10157,
     "name": "Jude",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Generosity - Goodness - Kindness - To be generous - To be good to others"
+    "meaning": "Generosity and goodness of kind character"
   },
   {
     "id": 1042,
@@ -4950,13 +4950,13 @@
     "meaning": "Youthful, downy-bearded"
   },
   {
-    "id": 171,
+    "id": 10171,
     "name": "Jumana",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Silver pearl - Rarest pearl - Pearl - Small pearl - Gemstone"
+    "meaning": "Silver pearl of rare precious value"
   },
   {
     "id": 556,
@@ -5085,13 +5085,13 @@
     "meaning": "Ear, a warrior from Mahabharata"
   },
   {
-    "id": 115,
+    "id": 10115,
     "name": "Karim",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Generous - Noble - Honorable - Kind - Beneficent"
+    "meaning": "Noble generous soul of honorable character"
   },
   {
     "id": 1178,
@@ -5238,22 +5238,22 @@
     "meaning": "Premature child"
   },
   {
-    "id": 137,
+    "id": 10137,
     "name": "Khadija",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Premature child - Early baby - Precocious one - Trustworthy - Respect"
+    "meaning": "Premature child of trustworthy early birth"
   },
   {
-    "id": 119,
+    "id": 10119,
     "name": "Khalid",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Eternal - Immortal - Everlasting - To last forever"
+    "meaning": "Eternal immortal and everlasting in legacy"
   },
   {
     "id": 1303,
@@ -5490,13 +5490,13 @@
     "meaning": "Handsome, elegant"
   },
   {
-    "id": 199,
+    "id": 10199,
     "name": "Lamia",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Dark-lipped - Shining - Brilliant - Lustrous - Dark red lips"
+    "meaning": "Dark lipped beauty of shining brilliance"
   },
   {
     "id": 1044,
@@ -5571,22 +5571,22 @@
     "meaning": "Laurel, bay tree"
   },
   {
-    "id": 185,
+    "id": 10185,
     "name": "Layan",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Softness - Gentleness - Tenderness - Delicate - Prosperity - Life"
+    "meaning": "Soft gentleness of delicate tender nature"
   },
   {
-    "id": 104,
+    "id": 10104,
     "name": "Layla",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Night - Dark beauty - Born at night - Intoxication of wine"
+    "meaning": "Night with mysterious dark beauty"
   },
   {
     "id": 1020,
@@ -5706,13 +5706,13 @@
     "meaning": "Lily flower - Purity - Innocence"
   },
   {
-    "id": 127,
+    "id": 10127,
     "name": "Lina",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Tender - Palm tree - Small young palm tree - Delicate - Tenderness"
+    "meaning": "Tender young palm tree of gentle"
   },
   {
     "id": 1010,
@@ -5796,13 +5796,13 @@
     "meaning": "Famous warrior - Renowned fighter"
   },
   {
-    "id": 155,
+    "id": 10155,
     "name": "Lubna",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Storax tree - Fragrant resin - Frankincense tree - Elegance - White flower"
+    "meaning": "Fragrant storax tree of elegant beauty"
   },
   {
     "id": 1144,
@@ -6012,13 +6012,13 @@
     "meaning": "Honey, sweet"
   },
   {
-    "id": 120,
+    "id": 10120,
     "name": "Maha",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Wild cow - Arabian oryx - Beautiful eyes - Radiant beauty"
+    "meaning": "Wild oryx with eyes of radiant"
   },
   {
     "id": 1364,
@@ -6048,13 +6048,13 @@
     "meaning": "Like the moon, greatest"
   },
   {
-    "id": 200,
+    "id": 10200,
     "name": "Mahmoud",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Praised - Commendable - Praiseworthy - Laudable - Worthy of reverence"
+    "meaning": "Praised one worthy of highest commendation"
   },
   {
     "id": 1326,
@@ -6273,13 +6273,13 @@
     "meaning": "Wished-for child, bitter"
   },
   {
-    "id": 133,
+    "id": 10133,
     "name": "Mariam",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Wished-for child - Beloved - Pious - Arabic form of Mary - Mother of Jesus"
+    "meaning": "Wished for child of pious devotion"
   },
   {
     "id": 382,
@@ -6561,13 +6561,13 @@
     "meaning": "Great stream - Mack's stream"
   },
   {
-    "id": 167,
+    "id": 10167,
     "name": "May",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Small gazelle - Little gazelle - Water - Young servant"
+    "meaning": "Small gazelle of graceful elegant movement"
   },
   {
     "id": 249,
@@ -6588,13 +6588,13 @@
     "meaning": "Spring, mother, great"
   },
   {
-    "id": 188,
+    "id": 10188,
     "name": "Mazen",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Rain clouds - Rain-bearing cloud - Storm clouds - Abundant rain - Bright-faced"
+    "meaning": "Rain clouds that bring abundant blessing"
   },
   {
     "id": 1395,
@@ -7002,13 +7002,13 @@
     "meaning": "Gift"
   },
   {
-    "id": 173,
+    "id": 10173,
     "name": "Muna",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Wish - Desire - Aspiration - Hope - Longing"
+    "meaning": "Heartfelt wish and cherished deep desire"
   },
   {
     "id": 425,
@@ -7020,22 +7020,22 @@
     "meaning": "Wish - Desire - Goal - Aspiration"
   },
   {
-    "id": 151,
+    "id": 10151,
     "name": "Musa",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Drawn out of the water - Saved from drowning - Saved by water - Son - Moses"
+    "meaning": "Drawn from water by divine salvation"
   },
   {
-    "id": 144,
+    "id": 10144,
     "name": "Mustafa",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Chosen one - The chosen - The selected - Pure - Elect"
+    "meaning": "Chosen one selected by divine purpose"
   },
   {
     "id": 407,
@@ -7065,22 +7065,22 @@
     "meaning": "Advisor, alone"
   },
   {
-    "id": 158,
+    "id": 10158,
     "name": "Nabil",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Noble - Highborn - Learned - Generous - Intelligent"
+    "meaning": "Noble learned soul of intelligent character"
   },
   {
-    "id": 152,
+    "id": 10152,
     "name": "Nada",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Dew - Morning dew - Generosity - Dew of generosity - Call"
+    "meaning": "Morning dew of generous refreshment"
   },
   {
     "id": 722,
@@ -7110,13 +7110,13 @@
     "meaning": "Hope"
   },
   {
-    "id": 118,
+    "id": 10118,
     "name": "Nadia",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Caller - Announcer - Messenger - Dewy - Tender"
+    "meaning": "Caller who announces with tender voice"
   },
   {
     "id": 744,
@@ -7137,13 +7137,13 @@
     "meaning": "Calm, serenity"
   },
   {
-    "id": 193,
+    "id": 10193,
     "name": "Nahla",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "First drink of water - Water in the desert - Honeybee - Nourishment"
+    "meaning": "First drink of cool refreshing water"
   },
   {
     "id": 607,
@@ -7218,13 +7218,13 @@
     "meaning": "Pleasantness - Delightfulness"
   },
   {
-    "id": 196,
+    "id": 10196,
     "name": "Nasir",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Helper - Supporter - Protector - Granter of victory - Friend"
+    "meaning": "Helper supporter who grants victory"
   },
   {
     "id": 1332,
@@ -7317,13 +7317,13 @@
     "meaning": "New, young, praiseworthy"
   },
   {
-    "id": 165,
+    "id": 10165,
     "name": "Nawal",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Gift - Blessing - Unmerited favor of God - Present - Grant - Charity"
+    "meaning": "Divine gift of unexpected blessing"
   },
   {
     "id": 1308,
@@ -7542,13 +7542,13 @@
     "meaning": "Night"
   },
   {
-    "id": 175,
+    "id": 10175,
     "name": "Nisreen",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Wild rose - Eglantine - Fragrant flower - White rose - Musk rose"
+    "meaning": "Wild rose of fragrant natural beauty"
   },
   {
     "id": 852,
@@ -7677,13 +7677,13 @@
     "meaning": "Mother of the nation"
   },
   {
-    "id": 106,
+    "id": 10106,
     "name": "Nour",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Light - Radiance - Illumination - Divine light"
+    "meaning": "Divine light and spiritual illumination"
   },
   {
     "id": 951,
@@ -7848,13 +7848,13 @@
     "meaning": "The sacred syllable, cosmic sound"
   },
   {
-    "id": 101,
+    "id": 10101,
     "name": "Omar",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Flourishing - Long-lived - Populous - Life"
+    "meaning": "Represents life and lasting prosperity"
   },
   {
     "id": 1329,
@@ -8379,13 +8379,13 @@
     "meaning": "Famous advice, wise"
   },
   {
-    "id": 125,
+    "id": 10125,
     "name": "Rania",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Queenly - Gazing - Looking at - Heavenly - Winner"
+    "meaning": "Queenly gaze of victory and nobility"
   },
   {
     "id": 397,
@@ -8415,22 +8415,22 @@
     "meaning": "Ewe, lamb"
   },
   {
-    "id": 131,
+    "id": 10131,
     "name": "Rasha",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Young gazelle - Young deer - Fawn - Baby antelope"
+    "meaning": "Young gazelle of graceful swift beauty"
   },
   {
-    "id": 172,
+    "id": 10172,
     "name": "Rashid",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Rightly guided - Guided - Having true faith - Wise - Mature"
+    "meaning": "Rightly guided on the path of"
   },
   {
     "id": 635,
@@ -8460,13 +8460,13 @@
     "meaning": "Sun"
   },
   {
-    "id": 110,
+    "id": 10110,
     "name": "Rayan",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Watered - Luxuriant - Plentiful - Door of Heaven - Gate of Paradise"
+    "meaning": "Lush gate of heavenly paradise"
   },
   {
     "id": 792,
@@ -8604,13 +8604,13 @@
     "meaning": "Courageous - Valiant - Rye clearing"
   },
   {
-    "id": 195,
+    "id": 10195,
     "name": "Rima",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "White antelope - Graceful antelope - Pure white deer - Elegance"
+    "meaning": "White antelope of pure elegant grace"
   },
   {
     "id": 1190,
@@ -8793,22 +8793,22 @@
     "meaning": "Rose"
   },
   {
-    "id": 189,
+    "id": 10189,
     "name": "Ruba",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Hill - Highland - Elevated place - Green hill - Hilltop"
+    "meaning": "Elevated hilltop of stable prominence"
   },
   {
-    "id": 161,
+    "id": 10161,
     "name": "Ruqayyah",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Rise - Ascent - To ascend - She who rises high - Spell - Charm"
+    "meaning": "Gentle ascent that rises to heights"
   },
   {
     "id": 1177,
@@ -8883,13 +8883,13 @@
     "meaning": "Consent - Approval - Contentment"
   },
   {
-    "id": 147,
+    "id": 10147,
     "name": "Saad",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Happiness - Good fortune - Felicity - Lucky - Prosperity"
+    "meaning": "Happiness felicity and fortunate prosperity"
   },
   {
     "id": 810,
@@ -8910,13 +8910,13 @@
     "meaning": "Morning breeze"
   },
   {
-    "id": 159,
+    "id": 10159,
     "name": "Sabrina",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Patience - Perseverance - Enduring - Forbearing - Patient one"
+    "meaning": "Patient soul of enduring perseverance"
   },
   {
     "id": 623,
@@ -8928,13 +8928,13 @@
     "meaning": "Honor confers a crown"
   },
   {
-    "id": 148,
+    "id": 10148,
     "name": "Safiya",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Pure - Sincere friend - Chosen - Clear - Best friend"
+    "meaning": "Pure sincere friend of clear heart"
   },
   {
     "id": 1334,
@@ -8982,13 +8982,13 @@
     "meaning": "Cherry blossom child"
   },
   {
-    "id": 192,
+    "id": 10192,
     "name": "Salim",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Safe - Sound - Secure - Intact - Undamaged - Peaceful"
+    "meaning": "Safe sound and peacefully secure"
   },
   {
     "id": 645,
@@ -9000,13 +9000,13 @@
     "meaning": "Peaceful, safe"
   },
   {
-    "id": 116,
+    "id": 10116,
     "name": "Salma",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Safe - Peaceful - Healthy - Flawless - Secure"
+    "meaning": "Peaceful soul of safety and wholeness"
   },
   {
     "id": 971,
@@ -9036,31 +9036,31 @@
     "meaning": "Listener - Told by God"
   },
   {
-    "id": 168,
+    "id": 10168,
     "name": "Sami",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Elevated - Exalted - Sublime - High - Transcendent - Eminent"
+    "meaning": "Elevated sublime and transcendent in rank"
   },
   {
-    "id": 122,
+    "id": 10122,
     "name": "Samir",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Companion in evening talk - Entertaining companion - Nightly conversationalist"
+    "meaning": "Companion of pleasant evening conversation"
   },
   {
-    "id": 163,
+    "id": 10163,
     "name": "Samira",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Companion in evening talk - Entertaining companion - Night conversationalist - Lively"
+    "meaning": "Entertaining companion of pleasant evening"
   },
   {
     "id": 927,
@@ -9072,13 +9072,13 @@
     "meaning": "God has heard"
   },
   {
-    "id": 108,
+    "id": 10108,
     "name": "Sana",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Brilliance - Radiance - Splendor - Praise - Resplendence"
+    "meaning": "Radiant brilliance and magnificent splendor"
   },
   {
     "id": 870,
@@ -9117,13 +9117,13 @@
     "meaning": "Dream"
   },
   {
-    "id": 135,
+    "id": 10135,
     "name": "Sara",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Princess - Lady - Noblewoman - Joy - Delight - Pure"
+    "meaning": "Noble princess of joy and purity"
   },
   {
     "id": 922,
@@ -9396,13 +9396,13 @@
     "meaning": "Gift"
   },
   {
-    "id": 183,
+    "id": 10183,
     "name": "Shaimaa",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Beauty spot - Good natured - Having a beautiful appearance - Peaceful"
+    "meaning": "One with beauty marks of peaceful"
   },
   {
     "id": 752,
@@ -9909,13 +9909,13 @@
     "meaning": "Crown - Wreath - Garland - Honor"
   },
   {
-    "id": 197,
+    "id": 10197,
     "name": "Suha",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Faint star - Forgotten star - Alcor - Star in Ursa Major - Overlooked"
+    "meaning": "Faint hidden star of subtle brilliance"
   },
   {
     "id": 549,
@@ -10008,13 +10008,13 @@
     "meaning": "He who inspires awe"
   },
   {
-    "id": 160,
+    "id": 10160,
     "name": "Taha",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Mystic letters Ta-Ha - Pure - Name of a Quranic chapter - Purify"
+    "meaning": "Mysterious letters of pure sacred chapter"
   },
   {
     "id": 1346,
@@ -10080,13 +10080,13 @@
     "meaning": "Dew"
   },
   {
-    "id": 178,
+    "id": 10178,
     "name": "Talal",
     "origin": "arabic",
-    "religion": "islamic",
+    "religion": "neutral",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Admirable - Nice - Pleasant - Beautiful in form - Agreeable - Joy"
+    "meaning": "Admirable pleasantness of beautiful form"
   },
   {
     "id": 706,
@@ -10152,13 +10152,13 @@
     "meaning": "Rebel, bull"
   },
   {
-    "id": 117,
+    "id": 10117,
     "name": "Tariq",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Morning star - He who knocks at the door - Nightly visitor - Nocturnal visitor"
+    "meaning": "Morning star that pierces the darkness"
   },
   {
     "id": 484,
@@ -10881,22 +10881,22 @@
     "meaning": "Victor, conqueror"
   },
   {
-    "id": 194,
+    "id": 10194,
     "name": "Wael",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Seeking shelter - Protector - Rescue - Refuge - Clan - Protector"
+    "meaning": "Protector who seeks shelter for others"
   },
   {
-    "id": 128,
+    "id": 10128,
     "name": "Walid",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Newborn - Newborn child - Son - The one who is born"
+    "meaning": "Newborn child of fresh beginning"
   },
   {
     "id": 695,
@@ -10989,13 +10989,13 @@
     "meaning": "Beautiful"
   },
   {
-    "id": 170,
+    "id": 10170,
     "name": "Yahya",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Alive - Living - He lives - Long-lived - God is gracious"
+    "meaning": "God is gracious and life giving"
   },
   {
     "id": 734,
@@ -11052,13 +11052,13 @@
     "meaning": "He will prosper, sprout"
   },
   {
-    "id": 109,
+    "id": 10109,
     "name": "Yara",
     "origin": "arabic",
     "religion": "neutral",
     "rarity": "rare",
     "gender": "female",
-    "meaning": "Small butterfly - Little butterfly - Courage (Persian)"
+    "meaning": "Small butterfly of delicate grace"
   },
   {
     "id": 723,
@@ -11115,13 +11115,13 @@
     "meaning": "Lives forever, immortal"
   },
   {
-    "id": 141,
+    "id": 10141,
     "name": "Yasin",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "Mystic letters Ya-Sin - Chapter of the Quran - Heart of the Quran - O human being"
+    "meaning": "Mysterious letters of profound Quranic chapter"
   },
   {
     "id": 751,
@@ -11232,13 +11232,13 @@
     "meaning": "Righteous man, good"
   },
   {
-    "id": 105,
+    "id": 10105,
     "name": "Youssef",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "male",
-    "meaning": "God increases - God will add - He will increase"
+    "meaning": "God increases and grants abundant blessings"
   },
   {
     "id": 571,
@@ -11385,31 +11385,31 @@
     "meaning": "Flower, shining"
   },
   {
-    "id": 153,
+    "id": 10153,
     "name": "Zahra",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Radiant - Flower - Blossom - Shining - Brilliant - Beautiful"
+    "meaning": "Radiant flower of brilliant shining beauty"
   },
   {
-    "id": 138,
+    "id": 10138,
     "name": "Zainab",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "common",
     "gender": "female",
-    "meaning": "Fragrant flower - Flower in the desert - Father's adornment - Beautiful plant"
+    "meaning": "Fragrant flower that adorns the father"
   },
   {
-    "id": 176,
+    "id": 10176,
     "name": "Zakariya",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "God has remembered - God remembers - Remembered by God - Yahweh has remembered"
+    "meaning": "God remembers the prayer of faithful"
   },
   {
     "id": 1167,
@@ -11439,13 +11439,13 @@
     "meaning": "Golden camel, keeper of fire"
   },
   {
-    "id": 107,
+    "id": 10107,
     "name": "Zayd",
     "origin": "arabic",
     "religion": "islamic",
     "rarity": "rare",
     "gender": "male",
-    "meaning": "Growth - Abundance - Increase - Prosperity"
+    "meaning": "Growth abundance and prosperous increase"
   },
   {
     "id": 424,
